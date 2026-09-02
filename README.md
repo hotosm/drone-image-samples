@@ -7,6 +7,7 @@ extraction and configuring processing pipelines.
 
 | Drone | Camera Model | File |
 |--|--|--|
+| DJI Mini 2 | FC7303 | [link](./images/dji-mini-2.jpeg)
 | DJI Mini 4 Pro | FC8482 | [link](./images/dji-mini-4-pro.jpeg)
 | DJI Mini 5 Pro | FC9313 | [link](./images/dji-mini-5-pro.jpeg)
 | Potensic Atom 3 | ATOM 3 | [link](./images/potensic-atom-3.jpeg)
