@@ -11,6 +11,7 @@ extraction and configuring processing pipelines.
 | DJI Mini 4 Pro | FC8482 | [link](./images/dji-mini-4-pro.jpeg)
 | DJI Mini 5 Pro | FC9313 | [link](./images/dji-mini-5-pro.jpeg)
 | Potensic Atom 3 | ATOM 3 | [link](./images/potensic-atom-3.jpeg)
+| DJI Mavic 3T Advanced | M3TA | [link](./images/dji-mavic-3ta.jpeg)
 
 ## OpenSfM Brown Distortion Figures
 
